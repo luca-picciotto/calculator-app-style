@@ -4,6 +4,7 @@
 - **Criticita riscontrate**: ci sono alcuni errori che si dovrebbero risolvere, putroppo per rispettare la consegna non potrò fare un analisi dettagliata ma cercherò di aggiuntare il bug di 'disable'.
 - **Funzionni**: ho preferito usare funzioni 'primordiali' per lo sviluppo, sarebbero poi da migliorare con medoti come '.map', '.filter' e '.reduce'.
 - **Documentazioni**: per problemi di tempo le documentazioni in jsDoc sono state generate tramite l'estensione di VsCode 'Mintify Doc Writer'.
+- **Scelte**: ho scelto di usare jsx invece di tsx perchè non avendo anche affrontato React e Typescript ho preferito ducumentartmi su un argomento per volta.
 
 ## Funzionalità
 1. **Aggiunta di righe**: Puoi aggiungere nuove righe per inserire numeri e operatori.
