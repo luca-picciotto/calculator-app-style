@@ -1,5 +1,9 @@
 # Calcolatrice React - Documentazione Completa
 
+## Commenti per CoolShop
+**Criticita riscontrate**: ci sono alcuni errori che si dovrebbero risolvere, putroppo per rispettare la consegna non potrò fare un analisi dettagliata ma cercherò di aggiuntare il bug di 'disable'.
+**Funzionni**: ho preferito usare funzioni 'primordiali' per lo sviluppo, sarebbero poi da migliorare con medoti come '.map', '.filter' e '.reduce'.
+**Documentazioni**: per problemi di tempo le documentazioni in jsDoc sono state generate tramite l'estensione di VsCode 'Mintify Doc Writer'.
 
 ## Funzionalità
 1. **Aggiunta di righe**: Puoi aggiungere nuove righe per inserire numeri e operatori.
