@@ -18,11 +18,11 @@ Prima di iniziare, assicurati di avere i seguenti strumenti installati:
 
 ---
 
-<!-- ## Installazione
+## Installazione
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo-username/calcolatrice-react.git
-   cd calcolatrice-react
+   git clone https://github.com/luca-picciotto/calculator-app-style.git
+   cd calculator-app-style
    ```
 
 2. Installa le dipendenze:
@@ -37,7 +37,7 @@ Prima di iniziare, assicurati di avere i seguenti strumenti installati:
 
 L'applicazione sarà accessibile su [http://localhost:3000](http://localhost:3000).
 
---- -->
+
 
 ## Utilizzo
 
