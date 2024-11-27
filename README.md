@@ -100,7 +100,7 @@ Gli stili sono definiti nel file `calculator.css`. La grafica include:
 ## Screenshot
 
 ### Layout della Calcolatrice
-![Layout della Calcolatrice](src\img\screen-calculator.png)
+![Layout della Calcolatrice](./src\img\screen-calculator.png)
 
 ---
 
