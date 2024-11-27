@@ -110,6 +110,5 @@ Gli stili sono definiti nel file `calculator.css`. La grafica include:
 ---
 
 ## Manutenzione e Personalizzazione
-1. Per modificare il comportamento o aggiungere nuove funzionalità, inizia da `App.js`.
-2. Gli operatori possono essere estesi nel file `utils/mathFunctions.js`.
-3. Stili personalizzati possono essere aggiunti in `calculator.css`.
+1. Gli operatori possono essere estesi nel file `utils/mathFunctions.js`.
+2. Stili personalizzati possono essere aggiunti in `calculator.css`.
